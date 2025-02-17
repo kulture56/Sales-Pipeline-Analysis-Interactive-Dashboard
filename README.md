@@ -20,6 +20,6 @@ This Power BI dashboard provides a comprehensive analysis of the sales pipeline,
 * Strongest Quarter: Q3 ($3.1M revenue) outperformed other quarters.
 
 **💡 Why Power BI?**
-*Automation: Reduces manual Excel tasks with automated data processing.
-*Dynamic Reporting: Real-time visualizations for actionable insights.
+* Automation: Reduces manual Excel tasks with automated data processing.
+* Dynamic Reporting: Real-time visualizations for actionable insights.
 * Enhanced Decision-Making: Identifies key trends and sales opportunities.
