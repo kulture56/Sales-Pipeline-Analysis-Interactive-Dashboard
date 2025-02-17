@@ -23,3 +23,8 @@ This Power BI dashboard provides a comprehensive analysis of the sales pipeline,
 * Automation: Reduces manual Excel tasks with automated data processing.
 * Dynamic Reporting: Real-time visualizations for actionable insights.
 * Enhanced Decision-Making: Identifies key trends and sales opportunities.
+
+**🛠️ Tools & Technologies**
+* Power BI – Data visualization and analytics.
+* Excel – Data collection and preprocessing.
+* DAX & Power Query – Data modeling and transformation.
